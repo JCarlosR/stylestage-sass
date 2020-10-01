@@ -54,9 +54,9 @@
 // stylelint-disable-next-line no-descending-specificity
 .page-footer [class^="link"] {
   width: 100%;
-  min-height: 2.5em;
-  background-color: var(--color-background);
-  color: var(--color-primary);
+  min-height: 2em;
+  background-color: var(--color-light);
+  color: var(--color-secondary);
 }
 
 .link-codepen {
@@ -72,7 +72,7 @@
     background-repeat: no-repeat;
     background-position: right 130%;
     background-size: 14%;
-    color: #6f6ffd;
+    color: #0000ff;
     font-size: 0.85em;
     content: "Jump right in";
   }
